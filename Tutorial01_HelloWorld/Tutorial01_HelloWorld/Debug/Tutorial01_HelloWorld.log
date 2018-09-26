@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vanamalm\desktop\c++\tutorial01_helloworld\tutorial01_helloworld\source.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tutorial01_HelloWorld.vcxproj -> C:\Users\vanamalm\Desktop\C++\Tutorial01_HelloWorld\Debug\Tutorial01_HelloWorld.exe

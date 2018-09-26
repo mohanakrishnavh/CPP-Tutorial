@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\vanamalm\desktop\c++\tutorial02_datatypes\tutorial02_datatypes\source.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\vanamalm\desktop\c++\tutorial02_datatypes\tutorial02_datatypes\source.cpp(78): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\vanamalm\desktop\c++\tutorial02_datatypes\tutorial02_datatypes\source.cpp(79): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tutorial02_DataTypes.vcxproj -> C:\Users\vanamalm\Desktop\C++\Tutorial02_DataTypes\Debug\Tutorial02_DataTypes.exe
