@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vanamalm\desktop\c++\tutorial05_exceptionhandling_looping\tutorial05_exceptionhandling_looping\source.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tutorial05_ExceptionHandling_Looping.vcxproj -> C:\Users\vanamalm\Desktop\C++\Tutorial05_ExceptionHandling_Looping\Debug\Tutorial05_ExceptionHandling_Looping.exe

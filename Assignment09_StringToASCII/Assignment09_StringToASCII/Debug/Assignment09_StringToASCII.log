@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vanamalm\source\repos\assignment09_stringtoascii\assignment09_stringtoascii\source.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Assignment09_StringToASCII.vcxproj -> C:\Users\vanamalm\source\repos\Assignment09_StringToASCII\Debug\Assignment09_StringToASCII.exe
